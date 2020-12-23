@@ -76,6 +76,7 @@ public class OurAI extends AI {
       }
    }
 
+
    //can remove files from possibleSpots or assign bad scores
    //"don't move where an enemy can attack"
    public void removeDangerousMoves(Unit player, ArrayList<MapTile> possibleSpots) {}
